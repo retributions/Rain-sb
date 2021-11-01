@@ -1,0 +1,17 @@
+{
+    "note": "To enable/disable use either y or n",
+    
+    "token": "",
+    
+    "embeds": "y",
+
+    "color": "cyan",
+
+    "prefix": ">",
+    
+    "nitrosniper": "y",
+    
+    "slotsniper": "y",
+    
+    "#colors avaible": "blue , red , cyan , green , orange, grey, yellow, gold, pink, navy, purple"
+}
